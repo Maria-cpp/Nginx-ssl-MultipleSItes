@@ -28,3 +28,10 @@ commands:
 6. ln -s /etc/nginx/sites-available/example.conf /etc/nginx/sites-enabled/example.conf
 7. ln -s /etc/nginx/sites-available/public.conf /etc/nginx/sites-enabled/public.conf
 8. service nginx restart
+
+repeat the step 1 to 5 and than check domains in the browser
+
+example.com
+
+public.com
+
