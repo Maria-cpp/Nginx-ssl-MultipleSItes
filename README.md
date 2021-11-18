@@ -7,11 +7,11 @@ Install Docker
 
 https://docs.docker.com/engine/install/ubuntu/
 
-goto 
+open the terminal and write the following command 
 
 nano /etc/hosts
 
-add following two lines after first two lines
+add following two lines after first two lines in hosts file
 
 127.0.0.1 example.com
 
